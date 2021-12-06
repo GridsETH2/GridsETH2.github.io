@@ -1,0 +1,21 @@
+{
+  "name": "gridseth2.github.io",
+  "version": "1.0.0",
+  "description": "Website of gridseth2.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GridsETH2/GridsETH2.github.io.git"
+  },
+  "keywords": [],
+  "author": "Grids Jivapong <grids.bitcoin@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/GridsETH2/GridsETH2.github.io/issues"
+  },
+  "homepage": "https://github.com/GridsETH2/GridsETH2.github.io#readme"
+}
