@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../UbuntuWorkStation"
+		},
+		{
+			"path": "../DeveloperEnvironment"
+		},
+		{
+			"path": "../MyMemoWEB3jsUbuntu"
+		},
+		{
+			"path": "../MyMemoCreateEthApp"
+		},
+		{
+			"path": "../MyMemoBitcoinfullNode"
+		},
+		{
+			"path": "../MyMemoRunNodeETH1"
+		},
+		{
+			"path": "../MyMemoDevLightningNetwork"
+		}
+	],
+	"settings": {}
+}
