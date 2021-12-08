@@ -36,3 +36,22 @@ return (
     </WaButton>
   );
 ~~~
+
+### Create Component Navbar
+
+ที่ `~/Documents/ExampleProject/EthW3dApp/ethw3dapp` ติดตั้ง `react-router-dom` ด้วยคำสั่ง
+~~~
+$ npm i react-router-dom
+~~~
+
+สร้างโฟลเดอร์ `[Nav]` ที่ `~/Documents/ExampleProject/EthW3dApp/ethw3dapp.project/packages/react-app/src/components/` 
+
+ในโฟลเดอร์ `[Nav]` สร้างไฟล์ 2 ไฟล์ชื่อ `Navbar.js` และ `Navitems` จากนั้น Coding ตามนี้
+- **[Navbar.js]()**
+- **[Navitems]()**
+
+
+
+
+
+
