@@ -22,7 +22,7 @@
 			"path": "../MyMemoRunNodeETH1"
 		},
 		{
-			"path": "../MyMemoDevLightningNetwork"
+			"path": "../MyMemoLightningNode"
 		}
 	],
 	"settings": {}
