@@ -1,28 +1,52 @@
 {
 	"folders": [
 		{
+			"name": "GridsETH2.github.io",
 			"path": "."
 		},
 		{
+			"name": "UbuntuWorkStation",
 			"path": "../UbuntuWorkStation"
 		},
 		{
+			"name": "DeveloperEnvironment",
 			"path": "../DeveloperEnvironment"
 		},
 		{
+			"name": "MyMemoWEB3jsUbuntu",
 			"path": "../MyMemoWEB3jsUbuntu"
 		},
 		{
+			"name": "MyMemoCreateEthApp",
 			"path": "../MyMemoCreateEthApp"
 		},
 		{
+			"name": "MyMemoBitcoinfullNode",
 			"path": "../MyMemoBitcoinfullNode"
 		},
 		{
+			"name": "MyMemoRunNodeETH1",
 			"path": "../MyMemoRunNodeETH1"
 		},
 		{
+			"name": "MyMemoLightningNode",
 			"path": "../MyMemoLightningNode"
+		},
+		{
+			"name": "MyMemoUmbrelUbuntu",
+			"path": "../MyMemoUmbrelUbuntu"
+		},
+		{
+			"name": "MyMemoDockerEngineUbuntu",
+			"path": "../MyMemoDockerEngineUbuntu"
+		},
+		{
+			"name": "MyMemoDockerComposeUbuntu",
+			"path": "../MyMemoDockerComposeUbuntu"
+		},
+		{
+			"name": "MyMemoPython3Ubuntu",
+			"path": "../MyMemoPython3Ubuntu"
 		}
 	],
 	"settings": {}
