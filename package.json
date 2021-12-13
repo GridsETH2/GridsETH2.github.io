@@ -17,5 +17,17 @@
   "bugs": {
     "url": "https://github.com/GridsETH2/GridsETH2.github.io/issues"
   },
-  "homepage": "https://github.com/GridsETH2/GridsETH2.github.io#readme"
+  "homepage": "https://github.com/GridsETH2/GridsETH2.github.io#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/node": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "graphql": "^16.0.1",
+    "mongoose": "^6.0.14"
+  }
 }
