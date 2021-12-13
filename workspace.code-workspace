@@ -47,6 +47,9 @@
 		{
 			"name": "MyMemoPython3Ubuntu",
 			"path": "../MyMemoPython3Ubuntu"
+		},
+		{
+			"path": "../../ExampleProject/EthW3dApp"
 		}
 	],
 	"settings": {}
