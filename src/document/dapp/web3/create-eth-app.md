@@ -1,9 +1,15 @@
 ## create-eth-app
 
-ที่มา : https://github.com/paulrberg/create-eth-app
+**ที่มา** : https://github.com/paulrberg/create-eth-app
 
-ขั้นตอนการติดตั้ง : https://github.com/GridsETH2/MyMemoCreateEthApp
+**ขั้นตอนการติดตั้ง** : https://github.com/GridsETH2/MyMemoCreateEthApp
 
+**เพิ่มเติม** : ติดตั้ง font-awesome จาก [cdnjs.com](https://cdnjs.com/libraries/font-awesome)
+
+copy cdn ไปวางที่ `file ~/../ethw3dapp.project/packages/react-app/public/index.html` line 28
+~~~javascript
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+~~~
 ## การพัฒนา
 
 install @material-ui ในโฟลเดอร์โครงการด้วยคำสั่ง :
