@@ -169,13 +169,17 @@ mysqld would have been started with the following arguments:
 
 
 
+sudo mkdir ~/qemu/
+mv ~/Downloads/IMAGE.iso ~/qemu/
+cd ~/qemu
 
 
 
+qemu-system-x86_64 -hda IMAGE.iso -m 1024 -net nic -net user
 
 
 
-
+dd if=kali-linux-2021.4a-live-i386.iso of=/dev/sdb bs=4M
 
 
 
